@@ -1,0 +1,41 @@
+==> People App API LIST
+
+1) Register
+	
+	--> param
+			-> name 
+			-> email
+			-> password
+			-> contact
+			-> city
+			-> profile
+
+2) Login
+	
+		-> Param
+			-> email 
+			-> password
+
+3) getAllCitylist
+
+		-> cityId
+		-> cityname
+		-> cityImage
+		
+			
+4) getAllPlace
+				
+		-> placeId
+		-> placename
+		-> place location
+		-> placeshortdesc
+		-> placelongdesc
+		-> placeImagies(maximum 6 images)
+
+5) getprofile
+
+6) EditProfile
+		
+			
+			
+			
